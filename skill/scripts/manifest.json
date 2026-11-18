@@ -1,0 +1,12 @@
+[
+  {
+    "app": "WeFlow 5.0.0",
+    "file": "D:/app/WeFlow/resources/resources/wcdb/win32/x64/wcdb_api.dll",
+    "note": "主组件；曾于 2026-09-30 到期，已打补丁延后至 2037-09-30。补丁后 SHA-256: 74c96063fe619a84c9ab665c7d7d4fcf4ea1def866ea5197b407983a858bf175"
+  },
+  {
+    "app": "WeFlow 5.0.0",
+    "file": "D:/app/WeFlow/resources/resources/wcdb/win32/x64/WCDB.dll",
+    "note": "WCDB 引擎，未检出截止时间锁。SHA-256: de80dc7b9117076f7f77e5ab5d6ee8dc44f8d3829c10549a800af2e4e219ebf8"
+  }
+]

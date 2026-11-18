@@ -1,0 +1,10 @@
+# 忽略
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# 本机生成的补丁产物
+*.patched.dll
+*-patched.dll
+*.bak-*
