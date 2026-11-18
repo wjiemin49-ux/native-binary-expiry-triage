@@ -155,6 +155,7 @@ native-binary-expiry-triage/
 
 ## 相关链接
 
+- 仓库地址：https://github.com/wjiemin49-ux/native-binary-expiry-triage
 - [WeFlow #1222](https://github.com/hicccc77/WeFlow/issues/1222) — 同一根因的上游报告
 - [WeFlow #47](https://github.com/hicccc77/WeFlow/issues/47) — 更晚阶段的游标问题
 

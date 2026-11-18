@@ -309,3 +309,4 @@ xcopy /E /I skill "%USERPROFILE%\.claude\skills\native-binary-expiry-triage"
 
 - `references/elevated-replace.md` — 提权替换安装目录文件的可靠做法
 - `references/weflow-case.md` — 完整案例记录：WeFlow 5.0.0 的 -101 / -1000 双检查点
+- 仓库：https://github.com/wjiemin49-ux/native-binary-expiry-triage
